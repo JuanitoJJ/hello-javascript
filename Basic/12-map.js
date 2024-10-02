@@ -22,6 +22,14 @@ myMap = new Map([
 
 console.log(myMap)
 
+myMap = new Map([
+    ["name", "Juan"],
+    ["email", "juan.jarque.ortiz@gmail.com"],
+    ["age", 34]
+])
+
+console.log(myMap)
+
 // Métodos y propiedades
 
 // set

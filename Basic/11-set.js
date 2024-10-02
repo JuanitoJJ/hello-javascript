@@ -18,6 +18,11 @@ mySet = new Set(["Brais", "Moure", "mouredev", 37, true, "braismoure@mouredev.co
 
 console.log(mySet)
 
+
+mySet = new Set(["Juan", "Jarque", "Juanito", 34, true, "juan.jarque.ortiz@gmail.com"])
+
+console.log(mySet)
+
 // Métodos comunes
 
 // add y delete

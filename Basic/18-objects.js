@@ -13,7 +13,6 @@ let person = {
     age: 37,
     alias: "MoureDev"
 }
-
 // Acceso a propiedades
 
 // Notación punto
@@ -56,6 +55,7 @@ let person2 = {
     }
 }
 person2.walk()
+
 
 // Anidación de objetos
 
