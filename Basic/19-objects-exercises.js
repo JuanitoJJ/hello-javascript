@@ -68,4 +68,9 @@ console.log(objeto3.job.name)
 
 // 9. Comprueba si los dos objetos creados son iguales
 
+
+console.log(objeto2 == objeto3)
+
 // 10. Comprueba si dos propiedades diferentes son iguales
+
+console.log(objeto2.name == objeto3.name)
