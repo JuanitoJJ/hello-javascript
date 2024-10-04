@@ -64,6 +64,8 @@ objeto3.job.work
 
 // 8. Accede y muestra el valor de las propiedades anidadas
 
+console.log(objeto3.job.name)
+
 // 9. Comprueba si los dos objetos creados son iguales
 
 // 10. Comprueba si dos propiedades diferentes son iguales
