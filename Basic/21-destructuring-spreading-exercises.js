@@ -5,6 +5,7 @@ https://www.youtube.com/live/SBXEpAx_y_Q?si=Sbqqa2-_eGwsUkH-&t=958
 */
 
 // 1. Usa desestructuración para extraer los dos primeros elementos de un array 
+let hola = 0
 
 // 2. Usa desestructuración en un array y asigna un valor predeterminado a una variable
 
