@@ -6,7 +6,33 @@ https://www.youtube.com/live/8p6SLAIgwZI?si=MS9o7qIhezx9NTQX&t=902
 
 // 1. Crea una clase que reciba dos propiedades
 
+class Persona {
+
+        constructor(name, age){
+            this.name = name
+            this.age = age
+        }
+}
+
+let persona = new Persona("Juan", 34)
+console.log(persona)
+
 // 2. Añade un método a la clase que utilice las propiedades
+
+class PersonaConMetodo {
+
+    constructor(name, age){
+        this.name = name
+        this.age = age
+    }
+
+    camina() {
+        console.log("La persona camina")
+    }
+}
+
+let persona2 = new PersonaConMetodo("Juan", 34)
+persona2.camina()
 
 // 3. Muestra los valores de las propiedades e invoca a la función
 
