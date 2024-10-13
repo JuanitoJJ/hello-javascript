@@ -36,6 +36,8 @@ persona2.camina()
 
 // 3. Muestra los valores de las propiedades e invoca a la función
 
+console.log(persona2.name)
+
 // 4. Añade un método estático a la primera clase
 
 // 5. Haz uso del método estático
